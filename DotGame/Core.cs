@@ -48,7 +48,7 @@ namespace DotGame
         {
             foreach (var dot in Dots.ToList())
             {
-                dot.Time -= new TimeSpan(0, 0, 0, 0, 50);
+                dot.Time -= new TimeSpan(0, 0, 0, 0, 51);
             }
         }
 
